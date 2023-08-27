@@ -2,8 +2,7 @@ install.packages("devtools")
 library(devtools)
 install_github("youngwoos/kospacing")
 
-library(kospacing)
-spacing("아래와같은방식으로API를사용할수있으며,호출건수에대해서별도의제한은없으나,1회 호출에200글자로글자수를제한하고있다.")
+
 
 
 <!-- head -->
