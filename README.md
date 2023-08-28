@@ -73,7 +73,7 @@
 </p>
 
 > code location
->> views / view_circleSearch.jsp
+>> views / view_circleSearch.jsp<br/>
 >> circle_List.jsp
 
 <br/>
