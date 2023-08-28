@@ -20,9 +20,9 @@
   **화면구현**
 
 - 사진등록 페이지
-<p align="center">
-  ![10Minutes시연영상](https://github.com/jeonggyohoon/Spring-AJAX-10MINUTES/assets/133930245/9d2a2508-25dd-428c-afb8-36fd26d532b4)
-</p>
+
+![10Minutes시연영상](https://github.com/jeonggyohoon/Spring-AJAX-10MINUTES/assets/133930245/a260a05b-2fc5-4f07-b0cc-89fba82cbb39)
+
 
 - 친구 추천 알고리즘 생성
 - 친구 추천 관련 MySQL DB 관리,  추가
