@@ -7,7 +7,7 @@
 <!-- body -->
 
 **기술 스택**
-- Spring FramWork 활용
+- *Spring FramWork 활용*
 - *Java / JavaScript / AJAX*
 - *HTML / CSS / JSP*
 - *MySQL DB*
