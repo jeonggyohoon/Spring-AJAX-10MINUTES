@@ -89,8 +89,7 @@
 </p>
 
 > code location
->> views / view_circleSearch.jsp<br/>
->> circle_List.jsp
+>> use_model.py
 
 <br/>
 
