@@ -6,6 +6,15 @@
 
 <!-- body -->
 <div>
+  **기술 스택**
+  
+
+- Java / JavaScript / AJAX
+- HTML / CSS / JSP
+- Python / COLAB / Pycharm
+</div>
+<br/>
+<div>
   **담당**
 
 - 사진 등록 기능 구현(파일 선택, 미리 보기, Drag and Drop)
