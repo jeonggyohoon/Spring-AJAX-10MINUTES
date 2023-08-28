@@ -5,16 +5,15 @@
 </p>
 
 <!-- body -->
-<div>
-  **기술 스택**
-  
+
+**기술 스택**
 
 - *Java / JavaScript / AJAX*
 - *HTML / CSS / JSP*
 - *Python / COLAB / Pycharm*
-</div>
+  
 <br/>
-<div>
+
   **담당**
 
 - 사진 등록 기능 구현(파일 선택, 미리 보기, Drag and Drop)
@@ -25,9 +24,9 @@
 - 닮은 동물 상 찾기 모델(데이터 크롤링, 전처리, 모델링)
 
   
-</div>
+
 <br/>
-<div>
+
   **화면구현**
 
 - 사진등록 페이지
@@ -40,7 +39,6 @@
 - 친구 추천 관련 페이지  JavaScript Ajax를 활용한 비동기 처리
 - 친구 리스트 출력, 동아리 조회 페이지 리스트 출력 기능 구현
 - 닮은 동물 상 찾기 모델(데이터 크롤링, 전처리, 모델링)
-</div>
 
 <!--set_images-->
 <p align="center">
