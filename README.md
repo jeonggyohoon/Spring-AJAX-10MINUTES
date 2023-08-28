@@ -9,9 +9,9 @@
   **기술 스택**
   
 
-- Java / JavaScript / AJAX
-- HTML / CSS / JSP
-- Python / COLAB / Pycharm
+- *Java / JavaScript / AJAX*
+- *HTML / CSS / JSP*
+- *Python / COLAB / Pycharm*
 </div>
 <br/>
 <div>
