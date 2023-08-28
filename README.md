@@ -21,7 +21,7 @@
 
 - 사진등록 페이지
 <p align="center">
-  <img src="![10Minutes시연영상](https://github.com/jeonggyohoon/Spring-AJAX-10MINUTES/assets/133930245/9d2a2508-25dd-428c-afb8-36fd26d532b4)">
+  <a href="![10Minutes시연영상](https://github.com/jeonggyohoon/Spring-AJAX-10MINUTES/assets/133930245/9d2a2508-25dd-428c-afb8-36fd26d532b4)">Project Name</a>
 </p>
 
 - 친구 추천 알고리즘 생성
@@ -31,10 +31,11 @@
 - 닮은 동물 상 찾기 모델(데이터 크롤링, 전처리, 모델링)
 </div>
 
+<!--set_images-->
 <p align="center">
   <img src="your-gif-url-here.gif">
 </p>
-
+<!--set_gif-->
 <p align="center">
   <a href="link-to-your-project">Project Name</a>
 </p>
