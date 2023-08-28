@@ -34,6 +34,7 @@
 
 - 사진등록 페이지
 <br/>
+
 ![10Minutes시연영상](https://github.com/jeonggyohoon/Spring-AJAX-10MINUTES/assets/133930245/a260a05b-2fc5-4f07-b0cc-89fba82cbb39)
 
 > code location
@@ -42,6 +43,7 @@
 
 - 닮은 동물상 결과 페이지
 <br/>
+
 ![10Minutes시연영상 (1)](https://github.com/jeonggyohoon/Spring-AJAX-10MINUTES/assets/133930245/4ee9d20d-e14c-43bc-b6c4-71af3c682ae0)
 
 > code location
