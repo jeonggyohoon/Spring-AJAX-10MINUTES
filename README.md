@@ -14,6 +14,8 @@
   
 <br/>
 
+---
+
   **담당**
 
 - 사진 등록 기능 구현(파일 선택, 미리 보기, Drag and Drop)
@@ -23,7 +25,7 @@
 - 친구 리스트 출력, 동아리 조회 페이지 리스트 출력 기능 구현
 - 닮은 동물 상 찾기 모델(데이터 크롤링, 전처리, 모델링)
 
-  
+ --- 
 
 <br/>
 
@@ -32,7 +34,7 @@
 - 사진등록 페이지
 
 ![10Minutes시연영상](https://github.com/jeonggyohoon/Spring-AJAX-10MINUTES/assets/133930245/a260a05b-2fc5-4f07-b0cc-89fba82cbb39)
-
+<code location - >
 
 - 친구 추천 알고리즘 생성
 - 친구 추천 관련 MySQL DB 관리,  추가
