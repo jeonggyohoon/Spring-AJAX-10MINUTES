@@ -55,7 +55,7 @@
 - 친구 찾기 알고리즘, 리스트 출력 페이지
 <br/>
 
-![10Minutes시연영상 (2)](https://github.com/jeonggyohoon/Spring-AJAX-10MINUTES/assets/133930245/061ba4d7-ff46-4362-a9ac-3b5b44e81ee5)
+![10Minutes시연영상 (3)](https://github.com/jeonggyohoon/Spring-AJAX-10MINUTES/assets/133930245/ac342945-3c3e-4803-b412-7f237fe8c97f)
 
 > code location
 >>  
