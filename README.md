@@ -63,9 +63,11 @@
 
 - 동아리 검색, 리스트 출력
 <br/>
+<p align="center">
 
 ![10Minutes시연영상 (4)](https://github.com/jeonggyohoon/Spring-AJAX-10MINUTES/assets/133930245/3bfb2919-12ea-40f8-90c7-c29d0d89d408)
 
+</p>
 > code location
 >>  
 <br/>
