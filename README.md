@@ -58,8 +58,8 @@
 ![10Minutes시연영상 (3)](https://github.com/jeonggyohoon/Spring-AJAX-10MINUTES/assets/133930245/ac342945-3c3e-4803-b412-7f237fe8c97f)
 
 > code location
->> views / view_friendSearch.jsp
->> views / m_list.jsp
+>> views / view_friendSearch.jsp<br/>
+>> views / m_list.jsp<br/>
 >> views / f_list.jsp
 <br/>
 
