@@ -21,7 +21,7 @@
 
 - 사진등록 페이지
 <p align="center">
-  <a href="![10Minutes시연영상](https://github.com/jeonggyohoon/Spring-AJAX-10MINUTES/assets/133930245/9d2a2508-25dd-428c-afb8-36fd26d532b4)">Project Name</a>
+  ![10Minutes시연영상](https://github.com/jeonggyohoon/Spring-AJAX-10MINUTES/assets/133930245/9d2a2508-25dd-428c-afb8-36fd26d532b4)
 </p>
 
 - 친구 추천 알고리즘 생성
