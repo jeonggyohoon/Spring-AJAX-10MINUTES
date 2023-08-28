@@ -29,7 +29,6 @@
  --- 
 
 <br/>
-
   **화면구현**
 
 - 사진등록 페이지
@@ -40,7 +39,6 @@
 > code location
 >>  
 <br/>
-
 - 닮은 동물상 결과 페이지
 <br/>
 
@@ -49,11 +47,22 @@
 > code location
 >>  
 <br/>
+- 닮은 동물상 결과 페이지
+<br/>
 
-- 친구 추천 관련 MySQL DB 관리,  추가
-- 친구 추천 관련 페이지  JavaScript Ajax를 활용한 비동기 처리
-- 친구 리스트 출력, 동아리 조회 페이지 리스트 출력 기능 구현
-- 닮은 동물 상 찾기 모델(데이터 크롤링, 전처리, 모델링)
+![10Minutes시연영상 (1)](https://github.com/jeonggyohoon/Spring-AJAX-10MINUTES/assets/133930245/4ee9d20d-e14c-43bc-b6c4-71af3c682ae0)
+
+> code location
+>>  
+<br/>
+- 닮은 동물상 결과 페이지
+<br/>
+
+![10Minutes시연영상 (1)](https://github.com/jeonggyohoon/Spring-AJAX-10MINUTES/assets/133930245/4ee9d20d-e14c-43bc-b6c4-71af3c682ae0)
+
+> code location
+>>  
+<br/>
 
 <!--set_images-->
 <p align="center">
