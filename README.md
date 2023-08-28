@@ -87,16 +87,16 @@
 
 ![1](https://github.com/jeonggyohoon/Spring-AJAX-10MINUTES/assets/133930245/884b4479-a248-4d0e-ab7f-0a5fa6acd37d)
 
-### 1. 비동기 처리 서버의 작업 순서가 JAVA>JSTL>HTML>JavaScript 이기 때문에 에러가 뜬다.
+#### 1. 비동기 처리 서버의 작업 순서가 JAVA>JSTL>HTML>JavaScript 이기 때문에 에러가 뜬다.
 
 ![2](https://github.com/jeonggyohoon/MVC-pattern-imarket/assets/133930245/45e66edd-11ac-43ed-9368-7ccb652c8a0b)
 
-### 2. JSP 상 출력할 위치를 잡아준 후 ajax에서 받아온 데이터를 다른 jsp에 그려서 그 그려진 jsp를 뿌려주는 방식을 사용했다.
+#### 2. JSP 상 출력할 위치를 잡아준 후 ajax에서 받아온 데이터를 다른 jsp에 그려서 그 그려진 jsp를 뿌려주는 방식을 사용했다.
 
 <br/>
 
 ![3](https://github.com/jeonggyohoon/MVC-pattern-imarket/assets/133930245/0eded7fb-cfe7-486f-ad86-173e3c82a73e)
 
-### 3. controller 에서 return 위치에 jsp를 그릴 위치의 경로를 잡아 리스트를 보내주어야 한다.
+#### 3. controller 에서 return 위치에 jsp를 그릴 위치의 경로를 잡아 리스트를 보내주어야 한다.
 
 ![4](https://github.com/jeonggyohoon/MVC-pattern-imarket/assets/133930245/8e7780de-31f0-4b6f-a755-5ba73521f764)
