@@ -69,7 +69,7 @@
 
 <p align="center">
 
-![10Minutes시연영상 (4)](https://github.com/jeonggyohoon/Spring-AJAX-10MINUTES/assets/133930245/3bfb2919-12ea-40f8-90c7-c29d0d89d408)
+![10Minutes시연영상 (6)](https://github.com/jeonggyohoon/MVC-pattern-imarket/assets/133930245/f8a18239-c253-46ad-8805-2d81d8a27bf2)
 
 </p>
 
