@@ -38,7 +38,7 @@
 >>  
 <br/>
 - 닮은 동물상 결과 페이지
-![10Minutes시연영상 (1)](https://github.com/jeonggyohoon/MVC-pattern-imarket/assets/133930245/a7540b95-17f6-45fe-9df6-8bff26bbd0a4)
+![10Minutes시연영상 (1)](https://github.com/jeonggyohoon/Spring-AJAX-10MINUTES/assets/133930245/4ee9d20d-e14c-43bc-b6c4-71af3c682ae0)
 > code location
 >>  
 <br/>
