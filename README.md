@@ -40,7 +40,7 @@
 ![10Minutes시연영상](https://github.com/jeonggyohoon/Spring-AJAX-10MINUTES/assets/133930245/a260a05b-2fc5-4f07-b0cc-89fba82cbb39)
 
 > code location
->>  
+>> views / make_profile.jsp  
 <br/>
 
 - 닮은 동물상 결과 페이지
@@ -49,7 +49,7 @@
 ![10Minutes시연영상 (1)](https://github.com/jeonggyohoon/Spring-AJAX-10MINUTES/assets/133930245/4ee9d20d-e14c-43bc-b6c4-71af3c682ae0)
 
 > code location
->>  
+>> views / view_result_profile_animal.jsp 
 <br/>
 
 - 친구 찾기 알고리즘, 리스트 출력 페이지
@@ -58,7 +58,9 @@
 ![10Minutes시연영상 (3)](https://github.com/jeonggyohoon/Spring-AJAX-10MINUTES/assets/133930245/ac342945-3c3e-4803-b412-7f237fe8c97f)
 
 > code location
->>  
+>> views / view_friendSearch.jsp
+>> views / m_list.jsp
+>> views / f_list.jsp
 <br/>
 
 - 동아리 검색, 리스트 출력
@@ -71,7 +73,9 @@
 </p>
 
 > code location
->>  
+>> views / view_circleSearch.jsp
+>> circle_List.jsp
+
 <br/>
 
 
