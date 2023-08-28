@@ -7,9 +7,10 @@
 <!-- body -->
 
 **기술 스택**
-
+- Spring FramWork 활용
 - *Java / JavaScript / AJAX*
 - *HTML / CSS / JSP*
+- *MySQL DB*
 - *Python / COLAB / Pycharm*
   
 
@@ -69,6 +70,21 @@
 <p align="center">
 
 ![10Minutes시연영상 (4)](https://github.com/jeonggyohoon/Spring-AJAX-10MINUTES/assets/133930245/3bfb2919-12ea-40f8-90c7-c29d0d89d408)
+
+</p>
+
+> code location
+>> views / view_circleSearch.jsp<br/>
+>> circle_List.jsp
+
+<br/>
+
+- 유사 동물상 찾기 모델링
+<br/>
+
+<p align="center">
+
+![10Minutes시연영상 (5)](https://github.com/jeonggyohoon/MVC-pattern-imarket/assets/133930245/20e5e672-47b7-486a-9cf5-27585b39d88e)
 
 </p>
 
