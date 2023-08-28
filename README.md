@@ -61,20 +61,13 @@
 >>  
 <br/>
 
-- 닮은 동물상 결과 페이지
+- 동아리 검색, 리스트 출력
 <br/>
 
-![10Minutes시연영상 (1)](https://github.com/jeonggyohoon/Spring-AJAX-10MINUTES/assets/133930245/4ee9d20d-e14c-43bc-b6c4-71af3c682ae0)
+![10Minutes시연영상 (4)](https://github.com/jeonggyohoon/Spring-AJAX-10MINUTES/assets/133930245/3bfb2919-12ea-40f8-90c7-c29d0d89d408)
 
 > code location
 >>  
 <br/>
 
-<!--set_images-->
-<p align="center">
-  <img src="your-gif-url-here.gif">
-</p>
-<!--set_gif-->
-<p align="center">
-  <a href="link-to-your-project">Project Name</a>
-</p>
+
