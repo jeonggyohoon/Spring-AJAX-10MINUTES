@@ -33,12 +33,13 @@
   **화면구현**
 
 - 사진등록 페이지
-
 ![10Minutes시연영상](https://github.com/jeonggyohoon/Spring-AJAX-10MINUTES/assets/133930245/a260a05b-2fc5-4f07-b0cc-89fba82cbb39)
 > code location
 >>  
+<br/>
+- 닮은 동물상 결과 페이지
 
-- 친구 추천 알고리즘 생성
+
 - 친구 추천 관련 MySQL DB 관리,  추가
 - 친구 추천 관련 페이지  JavaScript Ajax를 활용한 비동기 처리
 - 친구 리스트 출력, 동아리 조회 페이지 리스트 출력 기능 구현
